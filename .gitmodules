@@ -1,0 +1,12 @@
+[submodule "Acquisition"]
+	path = Acquisition
+	url = https://github.com/DelacorLLC/GDevCon1_PPLDemo_Acquisition.git
+[submodule "CML Shared"]
+	path = CML Shared
+	url = https://github.com/DelacorLLC/GDevCon1_PPLDemo_CML-Shared.git
+[submodule "Logger"]
+	path = Logger
+	url = https://github.com/DelacorLLC/GDevCon1_PPLDemo_Logger.git
+[submodule "Settings Editor"]
+	path = Settings Editor
+	url = https://github.com/DelacorLLC/GDevCon1_PPLDemo_Settings-Editor.git
