@@ -24,12 +24,9 @@
 				<Property Name="Bld_buildSpecName" Type="Str">DQMH PPL</Property>
 				<Property Name="Bld_excludeDependentDLLs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeDependentPPLs" Type="Bool">true</Property>
-				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
-				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Delacor/PPLs</Property>
-				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A2DD6BB8-F872-45FC-B7EE-E1129A65BAB6}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">DQMH PPL.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Delacor/PPLs/NI_AB_PROJECTNAME.lvlibp</Property>
@@ -41,7 +38,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{2DE036D9-0132-4D88-B91D-110153D12D5A}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{196E7ED1-67FB-4A66-B57C-ACD7A181DE8E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/DQMH PPL.lvlib</Property>
