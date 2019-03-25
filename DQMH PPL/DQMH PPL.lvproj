@@ -26,7 +26,7 @@
 				<Property Name="Bld_excludeDependentPPLs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Delacor/PPLs</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A2DD6BB8-F872-45FC-B7EE-E1129A65BAB6}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">DQMH PPL.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Delacor/PPLs/NI_AB_PROJECTNAME.lvlibp</Property>
@@ -38,7 +38,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{196E7ED1-67FB-4A66-B57C-ACD7A181DE8E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{EF323300-2C01-43C5-9E25-E5D2DBBF7357}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/DQMH PPL.lvlib</Property>
@@ -48,7 +48,28 @@
 				<Property Name="Source[1].preventRename" Type="Bool">true</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">Library</Property>
-				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Delacor_lib_QMH_Message Queue.lvclass/Delacor_lib_QMH_Enqueue Message (poly).vi</Property>
+				<Property Name="Source[2].properties[0].type" Type="Str">Remove front panel</Property>
+				<Property Name="Source[2].properties[0].value" Type="Bool">false</Property>
+				<Property Name="Source[2].properties[1].type" Type="Str">Remove block diagram</Property>
+				<Property Name="Source[2].properties[1].value" Type="Bool">false</Property>
+				<Property Name="Source[2].propertiesCount" Type="Int">2</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Delacor_lib_QMH_Message Queue.lvclass/private/Delacor_lib_QMH_Enqueue Message (Array).vi</Property>
+				<Property Name="Source[3].properties[0].type" Type="Str">Remove front panel</Property>
+				<Property Name="Source[3].properties[0].value" Type="Bool">false</Property>
+				<Property Name="Source[3].properties[1].type" Type="Str">Remove block diagram</Property>
+				<Property Name="Source[3].properties[1].value" Type="Bool">false</Property>
+				<Property Name="Source[3].propertiesCount" Type="Int">2</Property>
+				<Property Name="Source[3].type" Type="Str">VI</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Delacor_lib_QMH_Message Queue.lvclass/private/Delacor_lib_QMH_Enqueue Message (Single).vi</Property>
+				<Property Name="Source[4].properties[0].type" Type="Str">Remove front panel</Property>
+				<Property Name="Source[4].properties[0].value" Type="Bool">false</Property>
+				<Property Name="Source[4].properties[1].type" Type="Str">Remove block diagram</Property>
+				<Property Name="Source[4].properties[1].value" Type="Bool">false</Property>
+				<Property Name="Source[4].propertiesCount" Type="Int">2</Property>
+				<Property Name="Source[4].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">5</Property>
 				<Property Name="TgtF_companyName" Type="Str">Delacor</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">DQMH PPL</Property>
 				<Property Name="TgtF_internalName" Type="Str">DQMH PPL</Property>
